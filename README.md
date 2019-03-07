@@ -1,5 +1,5 @@
 # In order to view all graphs and plots use this link: https://nbviewer.jupyter.org/github/murtihash/Karachi-Terrorist-Attack-Analysis/blob/master/Global%20Terrorism%20Analysis.ipynb
-# Karachi-Terrorist-Attack-Analysis
+GLOBAL TERRORIST DATABASE
 Acknowledgements
 The Global Terrorism Database is funded through START, by the US Department of State (Contract Number: SAQMMA12M1292) and the US Department of Homeland Security Science and Technology Directorate’s Office of University Programs (Award Number 2012-ST-061-CS0001, CSTAB 3.1). The coding decisions and classifications contained in the database are determined independently by START researchers and should not be interpreted as necessarily representing the official views or policies of the United States Government.
 
